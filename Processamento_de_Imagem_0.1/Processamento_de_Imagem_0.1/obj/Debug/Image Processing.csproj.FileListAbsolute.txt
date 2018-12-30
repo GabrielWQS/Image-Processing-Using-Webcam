@@ -1,0 +1,22 @@
+D:\Programação\Repositório\image-processing-using-webcam\Processamento_de_Imagem_0.1\Processamento_de_Imagem_0.1\bin\Debug\Processamento_de_Imagem_0.1.exe.config
+D:\Programação\Repositório\image-processing-using-webcam\Processamento_de_Imagem_0.1\Processamento_de_Imagem_0.1\bin\Debug\Processamento_de_Imagem_0.1.exe
+D:\Programação\Repositório\image-processing-using-webcam\Processamento_de_Imagem_0.1\Processamento_de_Imagem_0.1\bin\Debug\Processamento_de_Imagem_0.1.pdb
+D:\Programação\Repositório\image-processing-using-webcam\Processamento_de_Imagem_0.1\Processamento_de_Imagem_0.1\bin\Debug\AForge.Controls.dll
+D:\Programação\Repositório\image-processing-using-webcam\Processamento_de_Imagem_0.1\Processamento_de_Imagem_0.1\bin\Debug\AForge.dll
+D:\Programação\Repositório\image-processing-using-webcam\Processamento_de_Imagem_0.1\Processamento_de_Imagem_0.1\bin\Debug\AForge.Imaging.dll
+D:\Programação\Repositório\image-processing-using-webcam\Processamento_de_Imagem_0.1\Processamento_de_Imagem_0.1\bin\Debug\AForge.Math.dll
+D:\Programação\Repositório\image-processing-using-webcam\Processamento_de_Imagem_0.1\Processamento_de_Imagem_0.1\bin\Debug\AForge.Video.DirectShow.dll
+D:\Programação\Repositório\image-processing-using-webcam\Processamento_de_Imagem_0.1\Processamento_de_Imagem_0.1\bin\Debug\AForge.Video.dll
+D:\Programação\Repositório\image-processing-using-webcam\Processamento_de_Imagem_0.1\Processamento_de_Imagem_0.1\bin\Debug\AForge.xml
+D:\Programação\Repositório\image-processing-using-webcam\Processamento_de_Imagem_0.1\Processamento_de_Imagem_0.1\bin\Debug\AForge.Controls.xml
+D:\Programação\Repositório\image-processing-using-webcam\Processamento_de_Imagem_0.1\Processamento_de_Imagem_0.1\bin\Debug\AForge.Imaging.xml
+D:\Programação\Repositório\image-processing-using-webcam\Processamento_de_Imagem_0.1\Processamento_de_Imagem_0.1\bin\Debug\AForge.Math.xml
+D:\Programação\Repositório\image-processing-using-webcam\Processamento_de_Imagem_0.1\Processamento_de_Imagem_0.1\bin\Debug\AForge.Video.xml
+D:\Programação\Repositório\image-processing-using-webcam\Processamento_de_Imagem_0.1\Processamento_de_Imagem_0.1\bin\Debug\AForge.Video.DirectShow.xml
+D:\Programação\Repositório\image-processing-using-webcam\Processamento_de_Imagem_0.1\Processamento_de_Imagem_0.1\obj\Debug\Processamento_de_Imagem_0._1.Form1.resources
+D:\Programação\Repositório\image-processing-using-webcam\Processamento_de_Imagem_0.1\Processamento_de_Imagem_0.1\obj\Debug\Processamento_de_Imagem_0._1.Properties.Resources.resources
+D:\Programação\Repositório\image-processing-using-webcam\Processamento_de_Imagem_0.1\Processamento_de_Imagem_0.1\obj\Debug\Image Processing.csproj.GenerateResource.cache
+D:\Programação\Repositório\image-processing-using-webcam\Processamento_de_Imagem_0.1\Processamento_de_Imagem_0.1\obj\Debug\Image Processing.csproj.CoreCompileInputs.cache
+D:\Programação\Repositório\image-processing-using-webcam\Processamento_de_Imagem_0.1\Processamento_de_Imagem_0.1\obj\Debug\Image Processing.csproj.CopyComplete
+D:\Programação\Repositório\image-processing-using-webcam\Processamento_de_Imagem_0.1\Processamento_de_Imagem_0.1\obj\Debug\Processamento_de_Imagem_0.1.exe
+D:\Programação\Repositório\image-processing-using-webcam\Processamento_de_Imagem_0.1\Processamento_de_Imagem_0.1\obj\Debug\Processamento_de_Imagem_0.1.pdb
